@@ -20,8 +20,8 @@ Contributors are always welcome. Contribute to this repository to add more codes
 
 Contributions are always welcome!
 
-See [contributing.md]() for ways to get started.
+See [contributing.md](https://github.com/EAGLE1309/journey-to-cpp/blob/main/CONTRIBUTING.md) for ways to get started.
 
-Please adhere to this project's [code of conduct]()
+Please adhere to this project's [code of conduct](https://github.com/EAGLE1309/journey-to-cpp/blob/main/CODE_OF_CONDUCT.md)
 
 ---
